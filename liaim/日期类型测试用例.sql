@@ -1,7 +1,7 @@
 --Description：日期类型测试用例
 --date：2020-05-07
 --author：李爱敏
-
+---测试测试
 --timestamp:时间戳类型，范围：0001-01-01 00:00:00/9999-12-31 23:59:59
 drop table T_TYPE_TIMESTAMP if exists;
 create table T_TYPE_TIMESTAMP (birth timestamp);
